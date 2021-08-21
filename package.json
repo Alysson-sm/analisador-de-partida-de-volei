@@ -1,0 +1,22 @@
+{
+  "name": "analisador-de-partida-de-volei",
+  "version": "1.0.0",
+  "description": "projeto para analisar uma partida de vôlei",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alysson-sm/analisador-de-partida-de-volei.git"
+  },
+  "author": "Alysson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alysson-sm/analisador-de-partida-de-volei/issues"
+  },
+  "homepage": "https://github.com/Alysson-sm/analisador-de-partida-de-volei#readme",
+  "dependencies": {
+    "jest": "^27.0.6"
+  }
+}
